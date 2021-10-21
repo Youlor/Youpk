@@ -166,8 +166,8 @@ FART: https://bbs.pediy.com/thread-252630.htm
 2. 重启至bootloader: `adb reboot bootloader`
 3. 解压 Youpk_sailfish.zip 并双击 `flash-all.bat` 
 
-百度云：https://pan.baidu.com/s/1ySSy2vNW5TyFjH1LNAcd5w 
-提取码：vseh 
+百度云：https://pan.baidu.com/s/1nUC5PpYGEBvkuvV-82pluA 
+提取码：sc82 
 
 
 
